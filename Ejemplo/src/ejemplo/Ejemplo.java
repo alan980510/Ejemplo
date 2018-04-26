@@ -17,6 +17,10 @@ public class Ejemplo {
     public static void main(String[] args) {
         // TODO code application logic here
         //este es un cambio
+        int a,b,c;
+        a=1;
+        b=2;
+        c=a+b;
     }
     
 }
